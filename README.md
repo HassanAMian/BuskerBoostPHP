@@ -6,7 +6,7 @@ This project is a PHP version of the RoR application BuskerBoost, with some adde
 
 Like BuskerBoost, BuskerBoostPHP is long term hobby project which will test my ability to incorporate simple features that I have learned into a multifunctional dynamic application.  
 
-BuskerBoostPHP uses PHP, mySQL, HTML5, CSS3, JavaScript, and jQuery (any additional languages/tools/libraries/frameworks used as the application progresses will be added here).  After primary functionality is established, 
+BuskerBoostPHP uses PHP, mySQLi, HTML5, CSS3 (Bootstrap CSS framework), JavaScript, and jQuery (any additional languages/tools/libraries/frameworks used as the application progresses will be added here).  After primary functionality is established, 
 
 Planned Features include:
 - Artist profile pages that allow users to post where they will be
