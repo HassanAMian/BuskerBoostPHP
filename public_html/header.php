@@ -1,22 +1,13 @@
-<div id="header">
-  <div id="headerWrap">
-    <div id="headerLogo">
-      <a href="#">
-        <img src="includes/img/navlogo.png" alt="logo" title="BuskerBoost">
-      </a>
-    </div>
-    <div id="headerRest">
-      <div id="menu1">
-        <div>
-          <a href="#">Sign Up / Log In</a>
-        </div>
-      </div>
-      <div id="menu2">
-        <div>
-          <a href="#">Menu_Item_1</a>
-          <a href="#">Menu_Item_2</a>
-        </div>
-      </div>
+<header class="navbar navbar-fixed-top navbar-inverse">
+  <div class="navbar-inner">
+    <div class="container">  
+      <nav>
+        <a href="#"><img src="includes/img/navlogo.png" alt="logo" title="BuskerBoost"></a> 
+        <ul class="nav navbar-nav pull-right">
+          <li><a href="#">Sign Up</a></li>
+          <li><a href="#">Log In</a></li>
+        </ul>
+      </nav>
     </div>
   </div>
-</div>
+</header>
